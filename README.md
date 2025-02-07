@@ -1,2 +1,2 @@
-# Extracci-n-de-Caracter-sticas
+# Extraccion-de-Caracteristicas
 Etapa de Extracción de Características | Inteligencia de Negocios
